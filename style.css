@@ -1,0 +1,33 @@
+body{
+background-color: bisque;
+background-image: url(images/sea.image.jpg);
+background-size: 100%;
+background-attachment: fixed;
+background-position: center;
+} 
+ img{
+    border-radius: 10%;
+    margin-top: 8px;
+    }
+
+    h2{
+        color: black;
+         }
+
+         button{
+            margin-left: 50px;
+            color: black;
+            float: right;
+        }
+
+      h1{
+        text-align: center;
+        color: black;
+        }
+
+        h3{
+            font-style: italic;
+            text-align: center;
+            color: blue;
+            
+        }
