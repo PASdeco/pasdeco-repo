@@ -1,0 +1,22 @@
+body{background-color: lightblue;}
+.container{
+    margin: 0 auto;
+    height: 430px;
+    width: 300px;
+    background-color: white;
+    border-radius: 15px;
+    padding: 1.5rem;
+
+}
+#image1{
+    width: 300px;
+    height: 300px;
+    border-radius: 15px;
+    margin: 0 auto;
+   }
+   h4{font-size: 1rem;
+     text-align: center;}
+
+   p{font-size: 1rem;
+    text-align: center;
+    }
